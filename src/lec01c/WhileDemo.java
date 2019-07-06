@@ -7,7 +7,6 @@ public class WhileDemo {
             if (x % 2 == 1) {
                 System.out.print(x + " ");
             }
-
             x++;
         }
     }
