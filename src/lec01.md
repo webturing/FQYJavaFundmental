@@ -1,4 +1,6 @@
-# Java 入门
+# lec01: Java 入门
+
+by ZHAO Jing(zj@webturing.com)
 
 ## 输出/输入
 ### 输出`System.out`
